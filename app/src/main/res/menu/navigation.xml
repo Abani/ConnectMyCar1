@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+
+        android:id="@string/RepairButton"
+
+        android:icon="@drawable/repair"
+
+
+        android:title="@string/repair" />
+
+    <item
+
+        android:id="@string/HistoryButton"
+        android:icon="@drawable/ic_history_black_24dp"
+        android:title="@string/history"
+
+        />
+    <item
+
+        android:id="@string/SaveButton"
+        android:icon="@drawable/save"
+        android:title="@string/save"
+
+        />
+
+</menu>
